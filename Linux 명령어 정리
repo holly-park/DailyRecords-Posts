@@ -1,0 +1,7 @@
+curl: 다양한 프로토콜을 지원하는 데이터 전송용 Command Line Tool이다. (HTTP, HTTPS, FTP, SFTP, SMTP 등을 지원한다.)
+       -d, --data: <data> Send specified data in POST request. 
+
+       -H, --header: <header> Headers to supply with request. 
+
+       -X, --request: The request method to use. ex) GET, POST
+       
