@@ -1,0 +1,11 @@
+1. 디렉토리를 만들기. 내가 만들고 싶은 파일 만들기
+
+2. <git 연결>
+   2-1. git init
+   2-2. git commit
+   2-3. git push
+   
+3. <github 연결>
+   3-1. 웹에서 repirsitory를 한개 만들고 ' ...or push an existing repository from the commanc line'에 있는대로 CLI에 명령어 입력
+   3-2. cli에서 나오는대로 username과 password를 입력하면 완성
+   
