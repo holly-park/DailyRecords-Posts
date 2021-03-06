@@ -7,3 +7,7 @@
 4. [GIT과 code연결](https://github.com/Holly-Park/DailyRecords-Posts/blob/main/GIT%EA%B3%BC%20code%20%EC%97%B0%EA%B2%B0)
 5. [동기 및 비동기](https://github.com/Holly-Park/DailyRecords-Posts/blob/main/%EB%8F%99%EA%B8%B0%20%EB%B0%8F%20%EB%B9%84%EB%8F%99%EA%B8%B0)
 6. [프로세스와 스래드](https://github.com/Holly-Park/DailyRecords-Posts/blob/main/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%9E%98%EB%93%9C)
+7. [인덱싱을 사용하는 이유](https://github.com/Holly-Park/DailyRecords-Posts/blob/main/%EC%9D%B8%EB%8D%B1%EC%8B%B1%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0)
+8. [컴퓨터의 구성요소]
+9. [RDMBS의 장점과 단점]
+10. [NoSQL의 장점과 단점]
