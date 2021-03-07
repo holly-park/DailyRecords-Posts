@@ -11,3 +11,4 @@
 8. [컴퓨터의 구성요소](https://github.com/Holly-Park/DailyRecords-Posts/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%20%EA%B5%AC%EC%84%B1%EC%9A%94%EC%86%8C)
 9. [RDMBS의 장점과 단점](https://github.com/Holly-Park/DailyRecords-Posts/tree/main)
 10. [NoSQL의 장점과 단점](https://github.com/Holly-Park/DailyRecords-Posts/blob/main/NoSQL%EC%9D%98%20%EC%9E%A5%EC%A0%90%EA%B3%BC%20%EB%8B%A8%EC%A0%90)
+11. [react의 prop과 state의 차이](https://github.com/Holly-Park/DailyRecords-Posts/tree/main)
