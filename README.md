@@ -14,3 +14,4 @@
 11. [react의 prop과 state의 차이](https://github.com/Holly-Park/DailyRecords-Posts/blob/main/react%EC%9D%98%20prop%EA%B3%BC%20state%EC%B0%A8%EC%9D%B4)
 12. [RESTful API란 무엇인가](https://github.com/Holly-Park/DailyRecords-Posts/blob/main/RESTful%20API%EA%B0%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
 13. [도메인이란 무엇인가](https://github.com/Holly-Park/DailyRecords-Posts/blob/main/%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9D%B4%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
+14. [MTU란](https://github.com/Holly-Park/DailyRecords-Posts/blob/main/MTU%EB%9E%80)
