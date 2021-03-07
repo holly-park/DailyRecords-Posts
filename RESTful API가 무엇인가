@@ -1,0 +1,8 @@
+RESTful API
+=(REpresentational State Transfer)ful API
+
+[의미] HTTP통신에서 어떤 차원에 대한 CRUD요청을 Resource와 Method로 표현하여 특정한 형태로 전달하는 방식
+[구성]
+ 1) Resource   --->  자원, URI
+ 2) Method     --->  요청방식(get, post등)
+ 3) Representation of Resource    --->  자원의 형태(JSON, XML 등)
