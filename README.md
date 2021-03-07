@@ -9,7 +9,7 @@
 6. [프로세스와 스래드](https://github.com/Holly-Park/DailyRecords-Posts/blob/main/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%9E%98%EB%93%9C)
 7. [인덱싱을 사용하는 이유](https://github.com/Holly-Park/DailyRecords-Posts/blob/main/%EC%9D%B8%EB%8D%B1%EC%8B%B1%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%EC%9D%B4%EC%9C%A0)
 8. [컴퓨터의 구성요소](https://github.com/Holly-Park/DailyRecords-Posts/blob/main/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9D%98%20%EA%B5%AC%EC%84%B1%EC%9A%94%EC%86%8C)
-9. [RDMBS의 장점과 단점](https://github.com/Holly-Park/DailyRecords-Posts/tree/main)
+9. [RDMBS의 장점과 단점](https://github.com/Holly-Park/DailyRecords-Posts/blob/main/RDBMS%EC%9D%98%20%EC%9E%A5%EC%A0%90%EA%B3%BC%20%EB%8B%A8%EC%A0%90)
 10. [NoSQL의 장점과 단점](https://github.com/Holly-Park/DailyRecords-Posts/blob/main/NoSQL%EC%9D%98%20%EC%9E%A5%EC%A0%90%EA%B3%BC%20%EB%8B%A8%EC%A0%90)
 11. [react의 prop과 state의 차이](https://github.com/Holly-Park/DailyRecords-Posts/tree/main)
 12. [RESTful API란 무엇인가](https://github.com/Holly-Park/DailyRecords-Posts/blob/main/RESTful%20API%EA%B0%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
