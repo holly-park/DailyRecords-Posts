@@ -12,3 +12,4 @@
 9. [RDMBS의 장점과 단점](https://github.com/Holly-Park/DailyRecords-Posts/tree/main)
 10. [NoSQL의 장점과 단점](https://github.com/Holly-Park/DailyRecords-Posts/blob/main/NoSQL%EC%9D%98%20%EC%9E%A5%EC%A0%90%EA%B3%BC%20%EB%8B%A8%EC%A0%90)
 11. [react의 prop과 state의 차이](https://github.com/Holly-Park/DailyRecords-Posts/tree/main)
+12. [RESTful API란 무엇인가](https://github.com/Holly-Park/DailyRecords-Posts/blob/main/RESTful%20API%EA%B0%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
