@@ -5,3 +5,7 @@ curl: 다양한 프로토콜을 지원하는 데이터 전송용 Command Line To
 
        -X, --request: The request method to use. ex) GET, POST
        
+echo: 화면에 텍스트를 출력하는 명령어. 명령어 뒤에 나오는 문자열dl 화면에 출력 
+       ex) echo $JAVA_HOME
+
+source: 스크립트 파일을 수정한 후에 수정된 값을 바로 적용하기 위해 사용하는 명령어
