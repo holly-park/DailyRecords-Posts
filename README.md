@@ -19,3 +19,4 @@
 16. [yarn, npm, nvm](https://github.com/Holly-Park/DailyRecords-Posts/blob/main/yarn%2C%20npm%2C%20nvm)
 17. [Shell]
 18. [React Native]
+19. [agile과 scrum]
