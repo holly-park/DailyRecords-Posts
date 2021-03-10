@@ -20,3 +20,4 @@
 17. [Shell]
 18. [React Native]
 19. [agile과 scrum]
+20. [forward proxy와 reverse proxy]
