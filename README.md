@@ -20,6 +20,6 @@
 17. [Shell]
 18. [React Native]
 19. [agile과 scrum]
-20. [forward proxy와 reverse proxy]
+20. [forward proxy와 reverse proxy](https://github.com/Holly-Park/DailyRecords-Posts/blob/main/forward%20proxy%EC%99%80%20reverse%20proxy)
 21. [프록시 사용이유](https://github.com/Holly-Park/DailyRecords-Posts/blob/main/%ED%94%84%EB%A1%9D%EC%8B%9C%20%EC%82%AC%EC%9A%A9%EC%9D%B4%EC%9C%A0)
 
